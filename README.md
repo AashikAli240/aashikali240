@@ -50,7 +50,7 @@ I enjoy working with Linux, containers, and monitoring tools to create reliable 
 ## 📫 Contact Me
 
 - **LinkedIn:** https://www.linkedin.com/in/aashik-ali-744419207  
-- **Email:** aashikali.com  
+- **Email:** aashikali240@gmail.com  
 
 ---
 
