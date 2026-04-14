@@ -1,21 +1,20 @@
 <!-- 🔥 Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ashik+Ali;Master+DevOps+Portfolio;Automation+%7C+CI%2FCD+%7C+Cloud;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+%7C+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aashik+Ali;DevOps+Brand+Identity;Automation+%7C+CI%2FCD+%7C+Cloud;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Building+Reliable+Systems" />
 </p>
 
-<!-- 🌈 Multi‑Color Neon Header -->
-<h1 align="center" style="font-weight: bold; font-size: 42px;">
-  ⚡ MASTER DEVOPS PORTFOLIO ⚡
+<!-- 🌈 BRAND NAME -->
+<h1 align="center" style="font-weight: bold; font-size: 45px;">
+  🔥 AASHIK DEVOPS LABS 🔥
 </h1>
 
-<!-- 🌊 Animated ASCII Wave -->
-<pre align="center">
-░█▀█░█▀▀░█░█░█▀▀░█░█░█▀█░█░█░
-░█▀▀░█▀▀░█░█░█░█░█░█░█░█░█▀▄░
-░▀░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░
-</pre>
+<!-- ✨ BRAND TAGLINE -->
+<h3 align="center" style="font-size: 20px;">
+  <i>“Engineering automation, reliability, and scalable cloud systems.”</i>
+</h3>
 
 ---
+
 
 # <div align="center" style="font-size: 28px; font-weight: bold;">🚀 DevOps Engineer • Automation • CI/CD • Cloud</div>
 
