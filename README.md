@@ -1,17 +1,11 @@
 <!-- 🔥 Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF2E2E&center=true&vCenter=true&width=700&lines=Aashik+Ali;Firestorm+DevOps+Portfolio;Automation+%7C+CI%2FCD+%7C+Cloud;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Unbreakable+Systems+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ashik+Ali;DevOps+Engineer;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Building+Automation+%26+CI%2FCD+Pipelines;Always+Learning+%7C+Always+Improving" />
 </p>
 
-<!-- 🔥 FIRESTORM TITLE -->
-<h1 align="center" style="font-weight: bold; font-size: 45px; color:#FF2E2E;">
-  🔥 AASHIK DEVOPS FIRESTORM 🔥
-</h1>
+---
 
-<!-- ⚡ TAGLINE -->
-<h3 align="center" style="font-size: 20px; color:#FF4A4A;">
-  <i>“Systems don’t fail under my watch — they evolve.”</i>
-</h3>
+# <p align="center">🚀 DevOps Engineer • Automation • CI/CD • Cloud</p>
 
 ---
 
