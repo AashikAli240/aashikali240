@@ -40,10 +40,9 @@ I enjoy working with Linux, containers, and monitoring tools to create reliable 
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AashikAli240&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AashikAli240&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://stats.dooboo.io/api/github-stats?username=AashikAli240&theme=tokyonight" height="150" />
+  <img src="https://stats.dooboo.io/api/top-langs?username=AashikAli240&theme=tokyonight" height="150" />
 </p>
 
 ---
