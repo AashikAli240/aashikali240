@@ -1,4 +1,4 @@
-<!-- 🔥 Typing Banner -->
+<!-- 🔥 Animated Typing Banner (Allowed by GitHub) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ashik+Ali;DevOps+Engineer;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+%7C+Always+Improving" />
 </p>
@@ -6,7 +6,9 @@
 <h1 align="center">Hi, I'm Ashik 👋</h1>
 
 <p align="center">
-  🚀 <b>Entry-Level DevOps Engineer</b> | Linux • Docker • Jenkins • Kubernetes • CI/CD  
+  🚀 <b>Entry-Level DevOps Engineer</b>  
+  <br>
+  Linux • Docker • Jenkins • Kubernetes • CI/CD  
 </p>
 
 ---
@@ -29,7 +31,7 @@ I enjoy working with Linux, containers, and monitoring tools to create reliable 
 
 ---
 
-## 🛠️ Tech Stack (Emoji Style — No Images)
+## 🛠️ Tech Stack (Emoji Style — Always Works)
 
 ### 🔧 Tools
 - 🐳 Docker  
