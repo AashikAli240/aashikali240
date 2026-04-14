@@ -71,8 +71,6 @@ I believe in:
 
 # 🔥 DevOps Workflow (Neon ASCII Diagram)
 ┌────────────────────────┐ │       Developer        │ └─────────────┬──────────┘ │ ▼ ┌────────────────────────┐ │       Git Commit       │ └─────────────┬──────────┘ │ ▼ ┌────────────────────────┐ │     GitHub Repo        │ └─────────────┬──────────┘ │ ▼ ┌────────────────────────┐ │   Jenkins Pipeline     │ │  Build • Test • Deploy │ └─────────────┬──────────┘ │ ▼ ┌────────────────────────┐ │     Docker Build       │ │     Docker Push        │ └─────────────┬──────────┘ │ ▼ ┌────────────────────────┐ │ Kubernetes Deployment  │ │   Pods • Services      │ └─────────────┬──────────┘ │ ▼ ┌────────────────────────┐ │   Grafana Monitoring   │ └────────────────────────┘
-
-
 ---
 
 # 🧭 DevOps Philosophy (Master Level)
@@ -98,7 +96,10 @@ Stateless, scalable, observable.
 
 ---
 
-# 🧩 Featured Projects (Premium HTML Cards)
+
+---
+
+# 🧩 FEATURED PROJECTS (PREMIUM CARDS)
 
 <div style="border: 2px solid #00f7ff; padding: 15px; border-radius: 10px; margin-bottom: 15px;">
 <b>🔹 CI/CD Pipeline with Jenkins + Docker + Kubernetes</b><br>
