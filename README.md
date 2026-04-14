@@ -24,23 +24,32 @@ I enjoy working with Linux, containers, and monitoring tools to create reliable 
 
 ---
 
-## 🔧 Tools & Technologies
+## 🛠️ Tech Stack Badges
 
-| Tool | Description |
-|------|-------------|
-| **Git & GitHub** | Version control and collaboration |
-| **Docker** | Containerization & image management |
-| **Jenkins** | CI/CD automation |
-| **Minikube** | Local Kubernetes cluster |
-| **Grafana** | Monitoring & visualization |
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?username=AashikAli240&theme=tokyonight" height="150" />
-  <img src="https://stats.dooboo.io/api/top-langs?username=AashikAli240&theme=tokyonight" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AashikAli240&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AashikAli240/AashikAli240/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
