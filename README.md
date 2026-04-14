@@ -1,4 +1,4 @@
-<!-- 🔥 TOP BANNER -->
+<!-- 🔥 Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ashik+Ali;DevOps+Engineer;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Always+Learning+%7C+Always+Improving" />
 </p>
@@ -19,7 +19,7 @@ I enjoy working with Linux, containers, and monitoring tools to create reliable 
 
 ## 🚀 Skills & Technologies
 
-### 🐧 **Core DevOps Skills**
+### 🐧 Core DevOps Skills
 - Linux / Ubuntu  
 - Git & GitHub  
 - Docker & Docker Hub  
@@ -29,41 +29,22 @@ I enjoy working with Linux, containers, and monitoring tools to create reliable 
 
 ---
 
-## 🛠️ Tech Stack Badges
+## 🛠️ Tech Stack (Emoji Style — No Images)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
+### 🔧 Tools
+- 🐳 Docker  
+- 🐧 Linux  
+- 🛠️ Jenkins  
+- ☸️ Kubernetes  
+- 📊 Grafana  
+- 🔗 Git & GitHub  
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AashikAli240&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+### 🧰 Other Skills
+- Bash Scripting  
+- CI/CD Pipelines  
+- YAML / JSON  
+- System Administration  
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AashikAli240/AashikAli240/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Contact Me
-
-- **LinkedIn:** https://www.linkedin.com/in/aashik-ali-744419207  
-- **Email:** aashikali240@gmail.com  
-
----
-
-<p align="center">✨ Always learning. Always building. Always improving. ✨</p>
+## 🔥 DevOps Pipeline (ASCII Diagram)
