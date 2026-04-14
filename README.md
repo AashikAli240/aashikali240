@@ -3,33 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ashik+Ali;DevOps+Engineer;Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;Building+Automation+%26+CI%2FCD+Pipelines;Always+Learning+%7C+Always+Improving" />
 </p>
 
----
-
-# <p align="center">🚀 DevOps Engineer • Automation • CI/CD • Cloud</p>
-
----
-
-
-<!-- 🌈 BRAND NAME -->
-<h1 align="center" style="font-weight: bold; font-size: 45px;">
-  🔥 DEVOPS Engineer 🔥
-</h1>
-
-<!-- ✨ BRAND TAGLINE -->
-<h3 align="center" style="font-size: 20px;">
-  <i>“Engineering automation, reliability, and scalable cloud systems.”</i>
-</h3>
-
----
 
 
 # <div align="center" style="font-size: 28px; font-weight: bold;">🚀 DevOps Engineer • Automation • CI/CD • Cloud</div>
 
-<div align="center" style="font-size: 18px;">
-✨ <i>“Turning complex systems into automated, scalable, reliable pipelines.”</i> ✨
-</div>
-
----
 
 # 🎯 About Me
 I’m a passionate **DevOps Engineer** focused on automation, CI/CD pipelines, containerization, and cloud‑native deployments.
